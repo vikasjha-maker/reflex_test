@@ -1,5 +1,5 @@
 import reflex as rx
 
 config = rx.Config(
-    app_name="git remote ",
+    app_name="reflex_test",
 )
