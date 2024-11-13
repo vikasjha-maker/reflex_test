@@ -4,3 +4,4 @@
 assets/external/
 __pycache__/
 venv/git 
+git config --global user.name "vikasjha-maker" 
